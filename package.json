@@ -15,7 +15,6 @@
     "email": "marijnh@gmail.com",
     "url": "http://marijnhaverbeke.nl"
   },
-  "type": "module",
   "main": "dist/index.cjs",
   "exports": {
     "import": "./dist/index.js",
